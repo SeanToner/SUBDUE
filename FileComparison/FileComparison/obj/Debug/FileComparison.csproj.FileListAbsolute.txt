@@ -1,0 +1,9 @@
+C:\Users\C3\Desktop\FileComparison\FileComparison\bin\Debug\FileComparison.exe.config
+C:\Users\C3\Desktop\FileComparison\FileComparison\bin\Debug\FileComparison.exe
+C:\Users\C3\Desktop\FileComparison\FileComparison\bin\Debug\FileComparison.pdb
+C:\Users\C3\Desktop\FileComparison\FileComparison\obj\Debug\FileComparison.csprojResolveAssemblyReference.cache
+C:\Users\C3\Desktop\FileComparison\FileComparison\obj\Debug\FileComparison.Form1.resources
+C:\Users\C3\Desktop\FileComparison\FileComparison\obj\Debug\FileComparison.Properties.Resources.resources
+C:\Users\C3\Desktop\FileComparison\FileComparison\obj\Debug\FileComparison.csproj.GenerateResource.Cache
+C:\Users\C3\Desktop\FileComparison\FileComparison\obj\Debug\FileComparison.exe
+C:\Users\C3\Desktop\FileComparison\FileComparison\obj\Debug\FileComparison.pdb

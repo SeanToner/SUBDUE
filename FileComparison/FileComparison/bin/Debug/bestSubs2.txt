@@ -1,0 +1,51 @@
+yv 1 
+nv 2 
+nv 3 
+yv 4 
+yv 5 
+yv 6 
+nv 7 
+nv 8 
+exv 9 
+budget d 9 1 
+fee d 9 2 
+aid d 9 3 
+ban d 9 4 
+contras d 9 5 
+mx d 9 6 
+education d 9 7 
+crime d 9 8 
+yv 1 
+nv 2 
+nv 3 
+yv 4 
+yv 5 
+yv 6 
+nv 7 
+exv 8 
+budget d 8 1 
+fee d 8 2 
+aid d 8 3 
+ban d 8 4 
+contras d 8 5 
+mx d 8 6 
+education d 8 7 
+yv 1 
+nv 2 
+nv 3 
+yv 4 
+yv 5 
+yv 6 
+nv 7 
+nv 8 
+nv 9 
+exv 10 
+budget d 10 1 
+fee d 10 2 
+aid d 10 3 
+ban d 10 4 
+contras d 10 5 
+mx d 10 6 
+education d 10 7 
+superfunds d 10 8 
+crime d 10 9 
